@@ -1,0 +1,3 @@
+/Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog/cmake-build-debug/CMakeFiles/Adv_C_Prog.dir
+/Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
