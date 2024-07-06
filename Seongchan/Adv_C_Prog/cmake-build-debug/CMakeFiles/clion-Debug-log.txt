@@ -1,0 +1,4 @@
+/Users/holychan/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/holychan/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog" -B "/Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/holychan/Library/Mobile Documents/com~apple~CloudDocs/대학교/스터디/C_tutoring/2023-OOP-Mentoring/Seongchan/Adv_C_Prog/cmake-build-debug
